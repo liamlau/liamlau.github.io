@@ -37,7 +37,7 @@ jQuery(window).load(function() {
 		var settings = {
 			resizeSpeed:	600,		// Speed to resize panel
 			fadeSpeed:		300,		// Speed to fade in/out
-			sizeFactor:		11.5,		// Size factor
+			sizeFactor:		12.5,		// Size factor
 			sizeMin:		15,			// Minimum point size
 			sizeMax:		20			// Maximum point size
 		};
